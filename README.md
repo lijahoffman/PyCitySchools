@@ -21,4 +21,4 @@ The following analyses were carried out:
 
 9. Scores by School Type: average math score, average reading score, percentage of students who passed reading, and percentage of students who passed overall for different school types. 
 
-* The script also includes written description of two observable data trends. * 
+* The script also includes a written description of two observable data trends. * 
