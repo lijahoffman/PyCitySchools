@@ -1,4 +1,4 @@
-# pandas-challenge
+# PyCitySchools
 
 The following script analyzes district-wide standardized testing results. The dataset used consists of every student’s math and reading scores, as well as information on the schools they attend (i.e., budget, size, school type, etc.). 
 
